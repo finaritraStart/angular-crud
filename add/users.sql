@@ -11,10 +11,5 @@ CREATE TABLE IF NOT EXISTS `users` (
 
 
 
-INSERT INTO `users` (`id`, `username`, `fname`, `lname`) VALUES
-(1, 'yssyogesh', 'Yogesh', 'singh'),
-(2, 'bsonarika', 'Sonarika', 'Bhadoria'),
-(3, 'vishal', 'Vishal', 'sahu'),
-(4, 'jiten', 'jitendra', 'singh');
 
 
